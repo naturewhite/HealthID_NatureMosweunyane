@@ -1,0 +1,1 @@
+start cmd /c java -jar  HealthIDGenerator.jar -DmainClass=identifier.GenerateIdentifier
